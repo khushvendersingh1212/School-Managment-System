@@ -1,0 +1,1 @@
+School management system made with python csv file handling
